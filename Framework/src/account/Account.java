@@ -2,6 +2,8 @@ package account;
 
 import java.util.ArrayList;
 
+import party.IParty;
+
 public abstract class Account implements IAccount {
 
 	public IParty party;
